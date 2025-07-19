@@ -1,0 +1,15 @@
+Basic Math & Recursion (e.g., Count Digits, Reverse Number, GCD/HCF, Armstrong check, basic recursion drills)
+
+Arrays & Sorting (~50 questions): subarray sums, two‑pointer patterns (2-Sum, 3-Sum, 4-Sum), Kadane’s, next‐permutation, matrix rotations, etc.
+
+Binary Search & Searching: lower/upper bounds, searches in rotated/sorted arrays, kth‑element in 2 sorted arrays, advanced tasks like Aggressive Cows (search on answers).
+
+Hashing & Sliding Window: anagram checks, longest subarray sum, min-window substring, LFU/most K occurrences, group anagrams, etc.
+
+Strings: reverse words, Roman ↔ integer, palindrome substrings, KMP, Z‑algorithm, smallest window covering another string, etc.
+
+Linked Lists: basics like insert/delete, search, plus reverse, detect cycle, merge, reorder, etc.
+
+Stacks/Queues: parentheses matching, sliding window max, monotonic stacks, evaluate RPN, etc.
+
+Trees & Graphs: traversal, LCA, tree diameter, serialize/deserialize, BFS/DFS, cycle detection, shortest paths, topological sort, etc.
